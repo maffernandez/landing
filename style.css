@@ -1,0 +1,13 @@
+h1 {color: #d6f8b8; font-family: 'Roboto', sans-serif; text-align: center;}
+h2 {color: red; font-size: 20px; font-family: 'Oswald', sans-serif;}
+
+#banner {background-image: url("http://valeskachirinos3124.pbworks.com/f/1423658396/vista-de-barcelona.jpg");
+padding: 150px;background-size: cover}
+.second_line {color: White;text-align: center;}
+.section {text-align: center;}
+a {text-decoration: none; text-align: center;}
+a:hover {color:red;}
+#footer {background-color: Grey; margin-top: 50px;padding-top: 15px; text-align: left;padding-bottom: 15px;}
+.list-inline.item {text-align: center}
+ímg {border-style: double; border-radius: 50%;background-color: LightGrey;
+	margin-left: 500px; margin-right: 500px}
